@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Cyber Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=cyber&color=0:0d1117,50:00f0ff,100:7000ff&height=220&section=header&text=ANAND%20RAJ&fontSize=70&fontColor=ffffff&animation=twinkle&fontAlignY=40"/>
+<img src='./my.png'/>
 
 ### <code>&lt; FULL-STACK JAVASCRIPT & AI ENGINEER /&gt;</code>
 
