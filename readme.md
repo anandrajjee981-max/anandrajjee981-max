@@ -1,173 +1,143 @@
 <div align="center">
 
-<!-- Cyber Banner Header -->
-<img src='./my.png'/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7000FF,100:00F0FF&height=220&section=header&text=ANAND%20RAJ&fontSize=60&fontColor=00F0FF&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20JavaScript%20%26%20AI%20Engineer&descAlignY=55&descAlign=50&descSize=20" width="100%"/>
 
-### <code>&lt; FULL-STACK JAVASCRIPT & AI ENGINEER /&gt;</code>
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%3E+Building+Agentic+AI+Workflows...;%3E+Architecting+Full-Stack+Web+Apps...;%3E+Real-Time+Systems+%2B+Socket.io...;%3E+Cinematic%2C+3D+%26+GSAP-Powered+UI...;%3E+Open+to+Remote+Full-Stack+Roles...">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%3E+Building+Agentic+AI+Workflows...;%3E+Architecting+Full-Stack+Web+Apps...;%3E+Real-Time+Systems+%2B+Socket.io...;%3E+Cinematic%2C+3D+%26+GSAP-Powered+UI...;%3E+Open+to+Remote+Full-Stack+Roles..." alt="Typing SVG"/>
+</a>
 
-<p align="center">
-  <a href="https://linkedin.com/in/anand-raj-059011387"><img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=000" /></a>
-  <a href="mailto:anandrajjee981@gmail.com"><img src="https://img.shields.io/badge/Email-7000FF?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
-  <a href="https://portfolio2-three-sable.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF0055?style=for-the-badge&logo=vercel&logoColor=fff" /></a>
-</p>
+<br>
 
----
-
-<!-- Dynamic Animated Typing Bar -->
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Building+Agentic+AI+Workflows;Architecting+Full-Stack+Web+Apps;Real-Time+Systems+%2B+Socket.io;Open+to+Full-Stack+%2F+Frontend+Roles">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Building+Agentic+AI+Workflows;Architecting+Full-Stack+Web+Apps;Real-Time+Systems+%2B+Socket.io;Open+to+Full-Stack+%2F+Frontend+Roles" alt="Typing SVG" />
+<a href="https://linkedin.com/in/anand-raj-059011387">
+  <img src="https://img.shields.io/badge/LinkedIn-connect-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117"/>
+</a>
+<a href="mailto:anandrajjee981@gmail.com">
+  <img src="https://img.shields.io/badge/Email-say%20hi-7000FF?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=0D1117"/>
+</a>
+<a href="https://portfolio2-three-sable.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-visit-FF0055?style=for-the-badge&logo=vercel&logoColor=fff&labelColor=0D1117"/>
+</a>
+<a href="https://github.com/anandrajjee981-max">
+  <img src="https://komarev.com/ghpvc/?username=anandrajjee981-max&style=for-the-badge&color=00F0FF&labelColor=0D1117&label=PROFILE+VISITS"/>
 </a>
 
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a425-11eb-8589-111578112454.gif" width="100%"/>
+## ⚡ SYSTEM.IDENTITY
 
-## ⚡ SYSTEM OVERVIEW
+```yaml
+name: Anand Raj
+location: Ranchi, Jharkhand, India  [open_to_remote: true]
+education: B.Sc Information Technology — Ranchi University (Expected 2028)
+current_role: Backend Developer Intern @ Pearl Thought  |  NestJS, HRMS, Auth Systems
+focus: Full-Stack Web Dev · Agentic AI Pipelines · Cinematic Frontend Engineering
+status: 🟢 OPEN_TO_WORK — Full-Stack / Frontend / AI Roles
+```
 
-- 👤 **Identity:** Anand Raj
-- 📍 **Location:** Ranchi, India *(Open to Remote)*
-- 🎓 **Education:** B.Sc Information Technology — Ranchi University *(Expected 2028)*
-- 💼 **Experience:** Web Developer Intern at InAmigos Foundation | Self-Directed Full-Stack Apps
-- 🎯 **Specialization:** Full Stack Web Development, Generative AI & Agentic Pipelines, Real-Time Web Apps
-- 🟢 **Status:** Open to Full-Stack / Frontend Roles
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<br>
-
-## 🛠️ TECH MATRIX
-
-<table>
-  <tr>
-    <td align="center" width="20%"><b>FRONTEND</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-141923?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/TypeScript-141923?style=flat-square&logo=typescript&logoColor=3178C6"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-141923?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/>
-      <img src="https://img.shields.io/badge/GSAP-141923?style=flat-square&logo=greensock&logoColor=88CE02"/>
-      <img src="https://img.shields.io/badge/Framer_Motion-141923?style=flat-square&logo=framer&logoColor=0055FF"/>
-      <img src="https://img.shields.io/badge/Redux_Toolkit-141923?style=flat-square&logo=redux&logoColor=764ABC"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="20%"><b>BACKEND</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-141923?style=flat-square&logo=nodedotjs&logoColor=339933"/>
-      <img src="https://img.shields.io/badge/Express.js-141923?style=flat-square&logo=express&logoColor=FFFFFF"/>
-      <img src="https://img.shields.io/badge/NestJS-141923?style=flat-square&logo=nestjs&logoColor=E0234E"/>
-      <img src="https://img.shields.io/badge/REST_APIs-141923?style=flat-square&logo=fastapi&logoColor=009688"/>
-      <img src="https://img.shields.io/badge/Socket.io-141923?style=flat-square&logo=socketdotio&logoColor=FFFFFF"/>
-      <img src="https://img.shields.io/badge/JWT_Auth-141923?style=flat-square&logo=jsonwebtokens&logoColor=000000"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="20%"><b>AI & AGENTS</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Gemini_AI-141923?style=flat-square&logo=googlegemini&logoColor=8E75B2"/>
-      <img src="https://img.shields.io/badge/LangChain-141923?style=flat-square&logo=langchain&logoColor=1C3C3C"/>
-      <img src="https://img.shields.io/badge/LangGraph-141923?style=flat-square&logo=langchain&logoColor=00F0FF"/>
-      <img src="https://img.shields.io/badge/Mistral_AI-141923?style=flat-square&logo=mistral&logoColor=FF7000"/>
-      <img src="https://img.shields.io/badge/Cohere-141923?style=flat-square&logo=cohere&logoColor=390099"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="20%"><b>DATA & TOOLS</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MongoDB-141923?style=flat-square&logo=mongodb&logoColor=47A248"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-141923?style=flat-square&logo=postgresql&logoColor=4169E1"/>
-      <img src="https://img.shields.io/badge/Redis-141923?style=flat-square&logo=redis&logoColor=DC382D"/>
-      <img src="https://img.shields.io/badge/Git-141923?style=flat-square&logo=git&logoColor=F05032"/>
-      <img src="https://img.shields.io/badge/Postman-141923?style=flat-square&logo=postman&logoColor=FF6C37"/>
-      <img src="https://img.shields.io/badge/Vercel-141923?style=flat-square&logo=vercel&logoColor=FFFFFF"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## 🚀 FEATURED BUILDS
+## 🧬 TECH.STACK
 
 <div align="center">
-<table>
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,redux,threejs&theme=dark" />
+
+**Backend & Real-time**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio,postgres,mongodb,redis&theme=dark" />
+
+**AI / Agentic Systems**
+<br>
+<img src="https://skillicons.dev/icons?i=py&theme=dark" />
+<img src="https://img.shields.io/badge/LangGraph-141923?style=flat-square&logo=langchain&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/LangChain-141923?style=flat-square&logo=langchain&logoColor=1C3C3C"/>
+<img src="https://img.shields.io/badge/Gemini_AI-141923?style=flat-square&logo=googlegemini&logoColor=8E75B2"/>
+<img src="https://img.shields.io/badge/Mistral_AI-141923?style=flat-square&logo=mistral&logoColor=FF7000"/>
+<img src="https://img.shields.io/badge/Cohere-141923?style=flat-square&logo=cohere&logoColor=390099"/>
+
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma&theme=dark" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🚀 FEATURED.BUILDS
+
+<table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🔍 RepoLens AI</h3>
-      <p align="center"><i>GitHub Repo Intelligence & Analysis Engine</i></p>
-      <hr>
-      <ul>
-        <li>Dual-AI model architecture (Gemini + Mistral) generating interview questions and recruiter scores.</li>
-        <li>Automated README generation & custom "Roast Mode" feedback.</li>
-      </ul>
-      <p align="center">
-        <code>React</code> <code>Node.js</code> <code>Gemini AI</code>
+    <td width="33%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/🔍_RepoLens_AI-0D1117?style=for-the-badge&labelColor=0D1117&color=00F0FF"/>
+      <p><i>GitHub Repo Intelligence Engine</i></p>
+      <p align="left">
+        • Dual-AI model (Gemini + Mistral) generating interview Qs & recruiter scores<br>
+        • Auto README generation + custom "Roast Mode"
       </p>
-      <p align="center">
-        <a href="https://repolens-ai-seven.vercel.app"><b>[ Live Demo ]</b></a>
-      </p>
+      <code>React</code> <code>Node.js</code> <code>Gemini AI</code>
+      <br><br>
+      <a href="https://repolens-ai-seven.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-→-FF0055?style=flat-square"/></a>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🧠 Recall AI</h3>
-      <p align="center"><i>Autonomous AI Content Organizer</i></p>
-      <hr>
-      <ul>
-        <li>Built in an 8-hour sprint using a 3-agent orchestration pipeline (Inspector → Librarian → Metadata).</li>
-        <li>Real-time semantic tagging and library synthesis.</li>
-      </ul>
-      <p align="center">
-        <code>LangGraph</code> <code>Mistral</code> <code>Cohere</code>
+    <td width="33%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/🧠_Recall_AI-0D1117?style=for-the-badge&labelColor=0D1117&color=7000FF"/>
+      <p><i>Autonomous AI Content Organizer</i></p>
+      <p align="left">
+        • Built in an 8-hr sprint — 3-agent pipeline (Inspector → Librarian → Metadata)<br>
+        • Real-time semantic tagging & synthesis
       </p>
-      <p align="center">
-        <a href="https://recall-ai-ashen.vercel.app"><b>[ Live Demo ]</b></a>
-      </p>
+      <code>LangGraph</code> <code>Mistral</code> <code>Cohere</code>
+      <br><br>
+      <a href="https://recall-ai-ashen.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-→-FF0055?style=flat-square"/></a>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🎨 Sketch AI</h3>
-      <p align="center"><i>Real-Time AI Multimodal Chat Platform</i></p>
-      <hr>
-      <ul>
-        <li>Context-aware chat supporting image vision and chat history persistence.</li>
-        <li>Secured with HTTP-only cookie JWT auth and WebSockets.</li>
-      </ul>
-      <p align="center">
-        <code>Socket.io</code> <code>LangChain</code> <code>Gemini</code>
+    <td width="33%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/🎨_Sketch_AI-0D1117?style=for-the-badge&labelColor=0D1117&color=00F0FF"/>
+      <p><i>Real-Time AI Multimodal Chat</i></p>
+      <p align="left">
+        • Context-aware chat w/ image vision + history persistence<br>
+        • HTTP-only cookie JWT auth + WebSockets
       </p>
-      <p align="center">
-        <a href="https://sketch-ai-earj.onrender.com"><b>[ Live Demo ]</b></a>
-      </p>
+      <code>Socket.io</code> <code>LangChain</code> <code>Gemini</code>
+      <br><br>
+      <a href="https://sketch-ai-earj.onrender.com"><img src="https://img.shields.io/badge/LIVE_DEMO-→-FF0055?style=flat-square"/></a>
     </td>
   </tr>
 </table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 📊 LIVE.TELEMETRY
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anandrajjee981-max&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF0055&text_color=C9D1D9&ring_color=7000FF" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anandrajjee981-max&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=7000FF&fire=FF0055&currStreakLabel=00F0FF" height="165"/>
 </div>
 
-<br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrajjee981-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" height="165"/>
+<img src="https://github-profile-trophy.vercel.app/?username=anandrajjee981-max&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" height="165"/>
+</div>
+
+<!-- 🐍 Contribution Snake — animates automatically once the GitHub Action (below) runs -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/anandrajjee981-max/anandrajjee981-max/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📜 CERTIFICATIONS
 
-- 🏅 **Responsive Web Design** — *freeCodeCamp*
-- 🏅 **Generative AI & Prompt Engineering** — *IBM*
-- 🏅 **Generative AI for All** — *Microsoft*
-
-<br>
-
-## 📈 TELEMETRY & STATS
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anandrajjee981-max&show_icons=true&theme=cyan&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrajjee981-max&layout=compact&theme=cyan&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" height="160"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anandrajjee981-max&theme=dark&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" height="155"/>
+<img src="https://img.shields.io/badge/Responsive_Web_Design-freeCodeCamp-0D1117?style=for-the-badge&labelColor=0D1117&color=00F0FF"/>
+<img src="https://img.shields.io/badge/GenAI_%26_Prompt_Engineering-IBM-0D1117?style=for-the-badge&labelColor=0D1117&color=7000FF"/>
+<img src="https://img.shields.io/badge/Generative_AI_for_All-Microsoft-0D1117?style=for-the-badge&labelColor=0D1117&color=FF0055"/>
 
 </div>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a425-11eb-8589-111578112454.gif" width="100%"/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=anandrajjee981-max&style=for-the-badge&color=00F0FF&label=SYSTEM+VISITS)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7000FF,100:0D1117&height=120&section=footer" width="100%"/>
 
 </div>
