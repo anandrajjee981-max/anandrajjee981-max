@@ -1,298 +1,173 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║  ●  ●  ●    anand-raj.dev / profile.md  —  [Modified]  —  UTF-8     ║
-╠═══════════════════════════════════════════════════════════════════╣
-║  FILE   EDIT   VIEW   RUN   TERMINAL   HELP                         ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
+<!-- Cyber Banner Header -->
+<img src="https://capsule-render.vercel.app/api?type=cyber&color=0:0d1117,50:00f0ff,100:7000ff&height=220&section=header&text=ANAND%20RAJ&fontSize=70&fontColor=ffffff&animation=twinkle&fontAlignY=40"/>
 
-```bash
->>> BOOTING SYSTEM...
->>> AUTH: anand_raj  ::  ACCESS GRANTED
->>> START SESSION: ANAND RAJ — FULL STACK JAVASCRIPT DEVELOPER
-```
+### <code>&lt; FULL-STACK JAVASCRIPT & AI ENGINEER /&gt;</code>
+
+<p align="center">
+  <a href="https://linkedin.com/in/anand-raj-059011387"><img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=000" /></a>
+  <a href="mailto:anandrajjee981@gmail.com"><img src="https://img.shields.io/badge/Email-7000FF?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
+  <a href="https://portfolio2-three-sable.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF0055?style=for-the-badge&logo=vercel&logoColor=fff" /></a>
+</p>
+
+---
+
+<!-- Dynamic Animated Typing Bar -->
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Building+Agentic+AI+Workflows;Architecting+Full-Stack+Web+Apps;Real-Time+Systems+%2B+Socket.io;Open+to+Full-Stack+%2F+Frontend+Roles">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Building+Agentic+AI+Workflows;Architecting+Full-Stack+Web+Apps;Real-Time+Systems+%2B+Socket.io;Open+to+Full-Stack+%2F+Frontend+Roles" alt="Typing SVG" />
+</a>
 
 </div>
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a425-11eb-8589-111578112454.gif" width="100%"/>
+
+## ⚡ SYSTEM OVERVIEW
+
+- 👤 **Identity:** Anand Raj
+- 📍 **Location:** Ranchi, India *(Open to Remote)*
+- 🎓 **Education:** B.Sc Information Technology — Ranchi University *(Expected 2028)*
+- 💼 **Experience:** Web Developer Intern at InAmigos Foundation | Self-Directed Full-Stack Apps
+- 🎯 **Specialization:** Full Stack Web Development, Generative AI & Agentic Pipelines, Real-Time Web Apps
+- 🟢 **Status:** Open to Full-Stack / Frontend Roles
+
+<br>
+
+## 🛠️ TECH MATRIX
+
+<table>
+  <tr>
+    <td align="center" width="20%"><b>FRONTEND</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-141923?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TypeScript-141923?style=flat-square&logo=typescript&logoColor=3178C6"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-141923?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/>
+      <img src="https://img.shields.io/badge/GSAP-141923?style=flat-square&logo=greensock&logoColor=88CE02"/>
+      <img src="https://img.shields.io/badge/Framer_Motion-141923?style=flat-square&logo=framer&logoColor=0055FF"/>
+      <img src="https://img.shields.io/badge/Redux_Toolkit-141923?style=flat-square&logo=redux&logoColor=764ABC"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>BACKEND</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-141923?style=flat-square&logo=nodedotjs&logoColor=339933"/>
+      <img src="https://img.shields.io/badge/Express.js-141923?style=flat-square&logo=express&logoColor=FFFFFF"/>
+      <img src="https://img.shields.io/badge/NestJS-141923?style=flat-square&logo=nestjs&logoColor=E0234E"/>
+      <img src="https://img.shields.io/badge/REST_APIs-141923?style=flat-square&logo=fastapi&logoColor=009688"/>
+      <img src="https://img.shields.io/badge/Socket.io-141923?style=flat-square&logo=socketdotio&logoColor=FFFFFF"/>
+      <img src="https://img.shields.io/badge/JWT_Auth-141923?style=flat-square&logo=jsonwebtokens&logoColor=000000"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>AI & AGENTS</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Gemini_AI-141923?style=flat-square&logo=googlegemini&logoColor=8E75B2"/>
+      <img src="https://img.shields.io/badge/LangChain-141923?style=flat-square&logo=langchain&logoColor=1C3C3C"/>
+      <img src="https://img.shields.io/badge/LangGraph-141923?style=flat-square&logo=langchain&logoColor=00F0FF"/>
+      <img src="https://img.shields.io/badge/Mistral_AI-141923?style=flat-square&logo=mistral&logoColor=FF7000"/>
+      <img src="https://img.shields.io/badge/Cohere-141923?style=flat-square&logo=cohere&logoColor=390099"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>DATA & TOOLS</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-141923?style=flat-square&logo=mongodb&logoColor=47A248"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-141923?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+      <img src="https://img.shields.io/badge/Redis-141923?style=flat-square&logo=redis&logoColor=DC382D"/>
+      <img src="https://img.shields.io/badge/Git-141923?style=flat-square&logo=git&logoColor=F05032"/>
+      <img src="https://img.shields.io/badge/Postman-141923?style=flat-square&logo=postman&logoColor=FF6C37"/>
+      <img src="https://img.shields.io/badge/Vercel-141923?style=flat-square&logo=vercel&logoColor=FFFFFF"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🚀 FEATURED BUILDS
+
+<div align="center">
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🔍 RepoLens AI</h3>
+      <p align="center"><i>GitHub Repo Intelligence & Analysis Engine</i></p>
+      <hr>
+      <ul>
+        <li>Dual-AI model architecture (Gemini + Mistral) generating interview questions and recruiter scores.</li>
+        <li>Automated README generation & custom "Roast Mode" feedback.</li>
+      </ul>
+      <p align="center">
+        <code>React</code> <code>Node.js</code> <code>Gemini AI</code>
+      </p>
+      <p align="center">
+        <a href="https://repolens-ai-seven.vercel.app"><b>[ Live Demo ]</b></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🧠 Recall AI</h3>
+      <p align="center"><i>Autonomous AI Content Organizer</i></p>
+      <hr>
+      <ul>
+        <li>Built in an 8-hour sprint using a 3-agent orchestration pipeline (Inspector → Librarian → Metadata).</li>
+        <li>Real-time semantic tagging and library synthesis.</li>
+      </ul>
+      <p align="center">
+        <code>LangGraph</code> <code>Mistral</code> <code>Cohere</code>
+      </p>
+      <p align="center">
+        <a href="https://recall-ai-ashen.vercel.app"><b>[ Live Demo ]</b></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🎨 Sketch AI</h3>
+      <p align="center"><i>Real-Time AI Multimodal Chat Platform</i></p>
+      <hr>
+      <ul>
+        <li>Context-aware chat supporting image vision and chat history persistence.</li>
+        <li>Secured with HTTP-only cookie JWT auth and WebSockets.</li>
+      </ul>
+      <p align="center">
+        <code>Socket.io</code> <code>LangChain</code> <code>Gemini</code>
+      </p>
+      <p align="center">
+        <a href="https://sketch-ai-earj.onrender.com"><b>[ Live Demo ]</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+## 📜 CERTIFICATIONS
+
+- 🏅 **Responsive Web Design** — *freeCodeCamp*
+- 🏅 **Generative AI & Prompt Engineering** — *IBM*
+- 🏅 **Generative AI for All** — *Microsoft*
+
+<br>
+
+## 📈 TELEMETRY & STATS
+
 <div align="center">
 
-**`anand_raj_portrait.ascii`** — *compiled from source photo — 104×52 render*
+<img src="https://github-readme-stats.vercel.app/api?username=anandrajjee981-max&show_icons=true&theme=cyan&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrajjee981-max&layout=compact&theme=cyan&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" height="160"/>
 
-```
-..........................:-+*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*=-..........................
-......................:=*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#+-......................
-...................-+#%%@%%%%@@@@@@@@@@@@%%%%%%%%%%%%#*###%%%%@@@@@@@@@@@@@@@@@@@@%*=:..................
-...............:=*%%%%%%%%%%%%%%@@@@@@@%%%#%%@@@@%%%%%#**###%%##%%%%@@@@@@@@@@@@@@@@@@#=:...............
-.............=*%%%%%%%%%%%%%%%%%%%%%%@%#%%@@@@@@@@@%%@@%#######%%%%###%%%@@@@@@@@@@@@@@@%#=:............
-..........:+%%%%%%%%%%%%%%%%%%%%%%%%%%#%@@@@@%@@@@@@@@@@@@%%@%###%%######%%%%%%%%%%%%@@@@@@%*-..........
-........-*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@%%#%#*#%%%%###%%%%%%%%%%%%%%%@@@@#=........
-......-#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@%%%%%%%@@@@@@@@%%@%%%#####%%%%%%%%%%%%%%%%%%%%=......
-....-#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@%#*++========+*#@@@@@##%@@@@%#*#%%%%%%%%%%%%%%%%%%@@%=....
-..:*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##%@@@@@%#*+==-------------+#@@@#+#%%@@%###%%%%%%%%%%%%%%%%%%%@@#-..
-:+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%@@%#***+==------::::::::-+#@@%%%#%%##%##%%%%%%%%%%%%%%%%%%%%%%*:
-#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@%#***++==------::::....:-+#@@@@@%%%#%%#%%%%%%%%%%%%%%%%%%%%%@@%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@%#*+===------::::::...:::-=#@@@@@@@@%%#%%%%%%%%%%%%%%%%%%%%%@@@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@%#**+==--::::::::::....::::-=#@@@@@@@%##%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@##%%%%%##*+=--::::::::...::::-=*@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*#####*####**+=-----==+**++==--=%%@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*%####%###*######+=--=+****==-====-#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%%###*#%%%###*+##**+-:.::-+###*+==+=--#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-#%%%%%%%%%%%%%%%%%%%%%%%############**+##***++===+++=-:.:::-+***+++==-:+-=#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-#%%%%%%%%%%%%%%%%%%%################%***+=-----=***+=-::::::::==--:::::=:-###%%%%%%%%%%%%%%%%%%%%%%%%%%%
-#%%%%%%%%%%%%%%%%#####################**+==---=**=++=-:::::::......:::-=:=#####%%%%%%%%%%%%%%%%%%%%%%%%%
-##%%%%%%%%%%%%%#####################*#***+===+****#*+=--==:::::...::::+-:*#####%%%%%%%%%%%%%%%%%%%%%%%%%
-###%%%%%%%%%%##########################***+**##%##%#******+-:--:::::-=+:=######%%%%%%%%%%%%%%%%%%%%%%%%%
-###%%%%%%%%################################%%%%%%%%*+**=+=-::-------=*-=########%%%%%%%%%%%%%%%%%%%%%%%%
-###%%%%%%%############################%####%%%%%#***+++++++++++=---=*###########%%%%%%%%%%%%%%%%%%%%%%%%
-##%%%%%%%%#############################%########*++-=----====++--=+*#############%%%%%%%%%%%%%%%%%%%%%%%
-#%%%%%%%%%%############################%%%%#######%%##*++=----===*##############%%%%%%%%%%%%%%%%%%%%%%%%
-#%%%%%%%%%%##############################@@@%##*****+=------==+*#**#############%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%#############################*#%@@%%%%%###***++=+###*===#############%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%############################**##%%%@@@@@%@@%%%%%%#+===..+*##########%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%############################+#####%%%%%%@%%%%##+===-:...=##########%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%###########################%=%%###########**++===-......#%%#######%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%######################%%#%#=+%%########**+++=-:.......*%%%%%######%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%#################%@@@%%@@*===*%#####**+++=:.........+%%%%%%%%%%%######%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%###########%@@@@@@%%@@@*===--=******=:...........+%%%%%%%%%%%%%@@%%%%%######%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%########%%%@@@@@@@@@@@@@@+=-:-++=-=++:............-%%%%%%%%%%%%%@@@@%%%%%%%%#####%%%%%%%%%@
-%%%%%%%%%%%%%#%%%%%%@@@@@@@@@@@@@@@@@#===#@@@@%%%%%#-.........:#%%%%%%%%%%%%%@@@@@@@@@%%%%%%%%%###%%%%%%
-%%%%%%%%%#%@%%%@@@@@@@@@@@@@@@@@@@@@#+-=**%@@@%%#%%@%+:......:*%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@%%%%%%%%##
-%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@#=--==+*%@@%#%%*=====:. ..=%%%%%%%%%%%%%%@@@@@@@@@@@@@%%@@@@@@@@@%%%#
-%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@%:.:::=++#@%%%#:...:::::..-#%%%%%%%%%%%%%%%@@@@@@@@@@@@@%@%%@@@@@%%%%#
-%%%%%%%#@@@@@@@@@@@@@@@@@@@@@@@@@%=..:::-=+%@#%%+..........:*%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@%%@%@@%%%%%%
-%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@#:....:-+%@%#%%#..........+%%%%%%%%%%%%%%%%@@@@@@@@@%@@@@%%%@%@@%%%%%%%
-%%%%%%#@@@@@@@@@@@@@@@@@@@@@@@@@%=::...-=%@@%###%.........=%%%%%%%%%%%%%%%%@@@@@@@%%%@@@@%%%%%%@%%%%%%%%
-#%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@%::...:=#@@@@%###........:#%%%%%%%%%%%%%%@@@@@@%%%%%%@@@%%%%%%@%%%%%%%%%
-.=%%%%@@@@@@@@@@@@@@@@@@@@@@@@@%*:...:-=@@@@@%%%#.:.....:+%%%%%%%%%%%%%%@@@@@%%%%%%@@@@%%%%%%@@%%%%%%%+:
-..:+%%@@@@@@@@@@@@@@@@@@@@@@@@@%-:...:=*@@@@@%%%*::.....=%%%%%%%%%%%%%%@@@@@%%%%%%@@@@%%%%%%%@@%%%%%#-..
-....:*@@@@@@@@@@@@@@@@@@@@@@@@@%::...-=%@@@@@%%%*:.....-#%%%%%%%%%%%%%@@@@@%%%%%%@@@@@%%%%%%@@@%%%#-....
-......:*@@@@@@@@@@@@@@@@@@@@@@%*::..:-+@@@@@%%%%+.....:*@%%%%%%%%%%%%@@@@%%%%%%%%@@@%%%%%%%@@@@@#-......
-.........+%@@@@@@@@@@@@@@@@@@@%+::..:=*@@@@@@@@%-....:=%%%%%%%%%%%%%@@@%%%%%%%%%@@@@%%%%%@@@@%+:........
-...........-*@@@@@@@@@@@@@@@@@%=::.:-=%@@@@@@@@%....:=#%%%%%%%%%%%%@@@%%%%%%%%%@@%%%%%%%@@@#=:..........
-..............=*@@@@@@@@@@@@@@%-::.:=+@@@@@@@@%#:...-+@%%%%%%%%%%%@@@@%%%%%%%%%@@@@%%@@@%+:.............
-.................-*%@@@@@@@@@@%:::.:=*@@@@@@@@@*:..:+%@%%%%%%%%%%@@@@@%%%%%%%%@@@@@@%*=:................
-```
+<br>
 
-`[ RENDER: RGB→ASCII ]   [ SRC: portrait.png ]   [ NODES: 5,408 ]   [ STATUS: ✔ COMPILED ]`
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anandrajjee981-max&theme=dark&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" height="155"/>
 
 </div>
 
 <br>
 
-### 📄 `identity.json`
-
-```json
-{
-  "name": "Anand Raj",
-  "role": "Full Stack JavaScript Developer",
-  "location": "Ranchi, Jharkhand, IN",
-  "remote": true,
-  "education": "B.Sc IT — Ranchi University (2028)",
-  "status": "🟢 open_to_work :: full-stack / frontend roles",
-  "summary": [
-    "3 production-ready full-stack apps shipped solo",
-    "API design + JWT auth + AI integration",
-    "Real-time systems with Socket.io"
-  ]
-}
-```
-
----
-
-### 📦 `imports.ts` — Stack Registry
-
-```ts
-import { JavaScript_ES6, TypeScript } from '@core/languages';
-import { React, TailwindCSS, GSAP, FramerMotion, ReduxToolkit } from '@core/frontend';
-import { NodeJS, ExpressJS, NestJS, JWT, REST_API } from '@core/backend';
-import { MongoDB, PostgreSQL, Redis } from '@core/database';
-import { GeminiAI, LangChain, LangGraph, MistralAI, CohereAI, MediaPipe } from '@core/ai-stack';
-import { SocketIO, Git, Postman, Vercel, Render } from '@core/toolchain';
-```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a425-11eb-8589-111578112454.gif" width="100%"/>
 
 <div align="center">
 
-`Frontend`
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![GSAP](https://img.shields.io/badge/GSAP-0D1117?style=for-the-badge&logo=greensock&logoColor=88CE02)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC)
-
-`Backend`
-![Node](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-
-`Databases`
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D)
-
-`AI / Agentic`
-![Gemini](https://img.shields.io/badge/Gemini_AI-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
-
-`Tools`
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
-![Render](https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=FFFFFF)
-
-</div>
-
----
-
-### 🗂️ `projects/` — Deployed Builds
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**`repolens-ai.exe`**
-> AI-powered GitHub repo analyzer — FlowZint AI Hackathon (Unstop)
-
-`React` `Node` `Gemini 2.5` `Mistral`
-
-- 2 AI models → interview Qs, recruiter scoring, README gen
-- JWT auth + "Roast Mode" repo feedback
-- [🔗 Live](https://repolens-ai-seven.vercel.app)
-
-</td>
-<td width="33%" valign="top">
-
-**`recall-ai.exe`**
-> AI content organizer — 8hr hackathon build
-
-`LangGraph` `Mistral` `Cohere`
-
-- 3-agent pipeline: Inspector → Librarian → Metadata
-- Semantic tagging + auto library creation
-- [🔗 Live](https://recall-ai-ashen.vercel.app)
-
-</td>
-<td width="33%" valign="top">
-
-**`sketch-ai.exe`**
-> Real-time AI chat platform
-
-`Gemini` `LangChain` `Socket.io`
-
-- Context-aware chat + image understanding
-- JWT (HTTP-only cookies) + persistent history
-- [🔗 Live](https://sketch-ai-earj.onrender.com)
-
-</td>
-</tr>
-</table>
-
----
-
-### 💼 `work_history.log`
-
-```bash
-$ cat work_history.log
-
-[2025 – Present]  Full Stack Developer — Self-Directed Projects
-  > Designed, built & deployed 3 full-stack apps solo (UI/UX, REST APIs,
-    DB modelling, JWT auth, CI-free deploys on Vercel/Render)
-
-[May 2026]  Web Developer Intern — InAmigos Foundation  (1 month)
-  > Frontend feature development in a team environment
-  > ✔ Internship Completion Certificate awarded
-```
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 `education.db`
-
-```yaml
-degree: B.Sc Information Technology
-university: Ranchi University
-status: Expected 2028
----
-level: Intermediate (Science)
-college: Marwari College, Ranchi
-year: 2022 – 2024
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🏅 `certifications.log`
-
-```yaml
-- Responsive Web Design — freeCodeCamp (2026)
-- Generative AI & Prompt Engineering — IBM (2025)
-- Generative AI for All — Microsoft (2025)
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 `analytics/` — Live Terminal Feed
-
-```bash
-$ fetch --github-stats anandrajjee981-max
-```
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anandrajjee981-max&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrajjee981-max&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" height="165"/>
-
-```bash
-$ fetch --streak-stats anandrajjee981-max
-```
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anandrajjee981-max&theme=react&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF2E63&currStreakLabel=00F0FF" height="165"/>
-
-```bash
-$ fetch --contribution-graph anandrajjee981-max
-```
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anandrajjee981-max&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FF2E63"/>
-
-</div>
-
-> ⚠️ Stats cards live GitHub push ke baad hi actual data ke saath render honge.
-
----
-
-### 🔌 `connect.config.js`
-
-```js
-export default function connect() {
-  return {
-    email:     "anandrajjee981@gmail.com",              // ✉️
-    phone:     "+91 89874 79794",                        // 📱
-    linkedin:  "linkedin.com/in/anand-raj-059011387",     // 👔
-    github:    "github.com/anandrajjee981-max",           // 💻
-    portfolio: "portfolio2-three-sable.vercel.app",       // 🌐
-  };
-}
-
-connect(); // 🚀 Open to remote full-stack / frontend roles
-```
-
-<div align="center">
-
-```bash
->>> SESSION ACTIVE — thanks for stopping by 👋
->>> process exited with code 0
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=anandrajjee981-max&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=anandrajjee981-max&style=for-the-badge&color=00F0FF&label=SYSTEM+VISITS)
 
 </div>
