@@ -109,24 +109,6 @@ status: 🟢 OPEN_TO_WORK — Full-Stack / Frontend / AI Roles
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 📊 LIVE.TELEMETRY
-
-<div align="center">
-<img src="https://i.pinimg.com/originals/ba/10/fe/ba10fe53b9fd389fa765eb58aadeeb8c.gif" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anandrajjee981-max&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=7000FF&fire=FF0055&currStreakLabel=00F0FF" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrajjee981-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" height="165"/>
-<img src="https://github-profile-trophy.vercel.app/?username=anandrajjee981-max&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" height="165"/>
-</div>
-
-<!-- 🐍 Contribution Snake — animates automatically once the GitHub Action (below) runs -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/anandrajjee981-max/anandrajjee981-max/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📜 CERTIFICATIONS
 
