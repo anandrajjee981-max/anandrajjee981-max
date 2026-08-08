@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7000FF,100:00F0FF&height=220&section=header&text=ANAND%20RAJ&fontSize=60&fontColor=00F0FF&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20JavaScript%20%26%20AI%20Engineer&descAlignY=55&descAlign=50&descSize=20" width="100%"/>
+<img src="/my.png" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%3E+Building+Agentic+AI+Workflows...;%3E+Architecting+Full-Stack+Web+Apps...;%3E+Real-Time+Systems+%2B+Socket.io...;%3E+Cinematic%2C+3D+%26+GSAP-Powered+UI...;%3E+Open+to+Remote+Full-Stack+Roles...">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%3E+Building+Agentic+AI+Workflows...;%3E+Architecting+Full-Stack+Web+Apps...;%3E+Real-Time+Systems+%2B+Socket.io...;%3E+Cinematic%2C+3D+%26+GSAP-Powered+UI...;%3E+Open+to+Remote+Full-Stack+Roles..." alt="Typing SVG"/>
