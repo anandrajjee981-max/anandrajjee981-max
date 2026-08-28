@@ -59,7 +59,7 @@
 
 <!-- LIVE ANIMATED SNAKE CONTRIBUTION GRAPH -->
 <a href="https://github.com/anandrajjee981-max">
-  <img src="https://snk-platane.vercel.app/anandrajjee981-max/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Physics Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/anandrajjee981-max/anandrajjee981-max/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Physics Snake Animation"/>
 </a>
 
 </div>
@@ -73,17 +73,17 @@
 <div align="center">
 
 <a href="https://github.com/anandrajjee981-max">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandrajjee981-max&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.demolab.com/api?username=anandrajjee981-max&show_icons=true&theme=cyberpunk&count_private=true" alt="GitHub Stats" />
 </a>
 &nbsp;
 <a href="https://github.com/anandrajjee981-max">
-  <img src="https://streak-stats.demolab.com/?user=anandrajjee981-max&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=anandrajjee981-max&theme=dark" alt="GitHub Streak" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/anandrajjee981-max">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrajjee981-max&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=anandrajjee981-max&layout=compact&theme=cyberpunk" alt="Top Languages" />
 </a>
 
 </div>
