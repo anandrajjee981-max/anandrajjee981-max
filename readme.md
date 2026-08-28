@@ -2,7 +2,7 @@
 
 <!-- CYBERPUNK HUD HEADER BANNER -->
 <a href="https://github.com/anandrajjee981-max">
-  <img src="./assets/cyber_header.svg" width="100%" alt="Cyberpunk HUD Header"/>
+  <img src="https://raw.githubusercontent.com/anandrajjee981-max/anandrajjee981-max/main/assets/cyber_header.svg" width="100%" alt="Cyberpunk HUD Header"/>
 </a>
 
 <br><br>
@@ -34,23 +34,23 @@
 </div>
 
 <br>
-<img src="./assets/neon_divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/anandrajjee981-max/anandrajjee981-max/main/assets/neon_divider.svg" width="100%" />
 <br>
 
 ## ⚡ SYSTEM.INITIALIZATION // CONSOLE LOGS
 
-<img src="./assets/terminal_hud.svg" width="100%" alt="Terminal Log Box"/>
+<img src="https://raw.githubusercontent.com/anandrajjee981-max/anandrajjee981-max/main/assets/terminal_hud.svg" width="100%" alt="Terminal Log Box"/>
 
 <br>
-<img src="./assets/neon_divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/anandrajjee981-max/anandrajjee981-max/main/assets/neon_divider.svg" width="100%" />
 <br>
 
 ## 📊 SYSTEM.DIAGNOSTICS & HUD METRICS
 
-<img src="./assets/status_meters.svg" width="100%" alt="HUD Diagnostics Meters"/>
+<img src="https://raw.githubusercontent.com/anandrajjee981-max/anandrajjee981-max/main/assets/status_meters.svg" width="100%" alt="HUD Diagnostics Meters"/>
 
 <br>
-<img src="./assets/neon_divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/anandrajjee981-max/anandrajjee981-max/main/assets/neon_divider.svg" width="100%" />
 <br>
 
 ## 🐍 CONTRIBUTIONS.PHYSICS_MATRIX
@@ -65,7 +65,7 @@
 </div>
 
 <br>
-<img src="./assets/neon_divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/anandrajjee981-max/anandrajjee981-max/main/assets/neon_divider.svg" width="100%" />
 <br>
 
 ## 📡 TELEMETRY & GITHUB STATS
@@ -73,23 +73,23 @@
 <div align="center">
 
 <a href="https://github.com/anandrajjee981-max">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandrajjee981-max&show_icons=true&theme=cyberpunk&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anandrajjee981-max&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </a>
 &nbsp;
 <a href="https://github.com/anandrajjee981-max">
-  <img src="https://streak-stats.demolab.com/?user=anandrajjee981-max&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=anandrajjee981-max&theme=tokyonight" alt="GitHub Streak" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/anandrajjee981-max">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrajjee981-max&layout=compact&theme=cyberpunk" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrajjee981-max&layout=compact&theme=tokyonight" alt="Top Languages" />
 </a>
 
 </div>
 
 <br>
-<img src="./assets/neon_divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/anandrajjee981-max/anandrajjee981-max/main/assets/neon_divider.svg" width="100%" />
 <br>
 
 ## 🧬 TECH.STACK // CYBER ARSENAL
@@ -144,7 +144,7 @@
 </div>
 
 <br>
-<img src="./assets/neon_divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/anandrajjee981-max/anandrajjee981-max/main/assets/neon_divider.svg" width="100%" />
 <br>
 
 ## 🚀 FEATURED.BUILDS // CYBER PRODUCTS
@@ -194,7 +194,7 @@
 </table>
 
 <br>
-<img src="./assets/neon_divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/anandrajjee981-max/anandrajjee981-max/main/assets/neon_divider.svg" width="100%" />
 <br>
 
 ## 📜 VERIFIED.ACCREDITATIONS

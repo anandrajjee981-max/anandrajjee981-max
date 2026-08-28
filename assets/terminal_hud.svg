@@ -18,15 +18,15 @@
   <circle cx="36" cy="16" r="5" fill="#ffbd2e" />
   <circle cx="52" cy="16" r="5" fill="#27c93f" />
 
-  <text x="75" y="20" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#a0aec0">
+  <text x="75" y="20" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#a0aec0">
     bash - root@anand-raj-matrix:~# systemctl status dev-core
   </text>
-  <text x="870" y="20" text-anchor="end" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#00f3ff">
+  <text x="870" y="20" text-anchor="end" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" fill="#00f3ff">
     [TTY-1]
   </text>
 
   <!-- Console Log Content -->
-  <g font-family="'Fira Code', 'Courier New', monospace" font-size="12" font-weight="500">
+  <g font-family="Consolas, Monaco, monospace" font-size="12" font-weight="500">
     <!-- Log Line 1 -->
     <text x="25" y="60" fill="#718096">[0.0010] <tspan fill="#00f3ff">sys.init()</tspan> : Loading core modules...</text>
     <text x="870" y="60" text-anchor="end" fill="#10b981" font-weight="bold">[ SUCCESS ]</text>
