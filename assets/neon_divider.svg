@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 30" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 20" width="100%" height="100%">
   <defs>
     <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0a0a0f" stop-opacity="0"/>
-      <stop offset="15%" stop-color="#00f3ff"/>
+      <stop offset="20%" stop-color="#00f3ff"/>
       <stop offset="50%" stop-color="#9d4edd"/>
-      <stop offset="85%" stop-color="#10b981"/>
+      <stop offset="80%" stop-color="#10b981"/>
       <stop offset="100%" stop-color="#0a0a0f" stop-opacity="0"/>
     </linearGradient>
     <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
@@ -16,22 +16,17 @@
     </filter>
   </defs>
 
-  <!-- Central Laser Line -->
-  <line x1="20" y1="15" x2="880" y2="15" stroke="url(#line-grad)" stroke-width="2" filter="url(#glow)"/>
+  <!-- Central Glowing Laser Line -->
+  <line x1="10" y1="10" x2="890" y2="10" stroke="url(#line-grad)" stroke-width="2.5" filter="url(#glow)"/>
 
-  <!-- Center HUD Diamond Node -->
-  <polygon points="450,7 458,15 450,23 442,15" fill="#0a0a0f" stroke="#00f3ff" stroke-width="1.5" filter="url(#glow)"/>
-  <circle cx="450" cy="15" r="2.5" fill="#9d4edd">
-    <animate attributeName="r" values="2;4;2" dur="1.5s" repeatCount="indefinite" />
+  <!-- Center Diamond HUD Node -->
+  <polygon points="450,4 456,10 450,16 444,10" fill="#0a0a0f" stroke="#00f3ff" stroke-width="1.5" filter="url(#glow)"/>
+  <circle cx="450" cy="10" r="2" fill="#9d4edd">
+    <animate attributeName="r" values="1.5;3;1.5" dur="1.5s" repeatCount="indefinite" />
   </circle>
 
-  <!-- Left Bracket -->
-  <path d="M 100 10 L 90 15 L 100 20" fill="none" stroke="#00f3ff" stroke-width="1.5" />
-  <!-- Right Bracket -->
-  <path d="M 800 10 L 810 15 L 800 20" fill="none" stroke="#10b981" stroke-width="1.5" />
-
   <!-- Animated Pulse Node travelling along line -->
-  <circle cx="0" cy="15" r="3" fill="#00f3ff" filter="url(#glow)">
-    <animate attributeName="cx" values="20;880;20" dur="6s" repeatCount="indefinite" />
+  <circle cx="0" cy="10" r="3" fill="#00f3ff" filter="url(#glow)">
+    <animate attributeName="cx" values="10;890;10" dur="5s" repeatCount="indefinite" />
   </circle>
 </svg>

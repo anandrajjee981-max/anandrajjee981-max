@@ -57,8 +57,9 @@
 
 <div align="center">
 
+<!-- LIVE ANIMATED SNAKE CONTRIBUTION GRAPH -->
 <a href="https://github.com/anandrajjee981-max">
-  <img src="https://raw.githubusercontent.com/anandrajjee981-max/anandrajjee981-max/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Physics Snake Animation"/>
+  <img src="https://snk-platane.vercel.app/anandrajjee981-max/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Physics Snake Animation"/>
 </a>
 
 </div>
@@ -69,27 +70,23 @@
 
 ## 📡 TELEMETRY & GITHUB STATS
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/anandrajjee981-max">
-        <img src="https://github-readme-stats.vercel.app/api?username=anandrajjee981-max&show_icons=true&bg_color=0a0a0f&title_color=00f3ff&text_color=e2e8f0&icon_color=9d4edd&border_color=00f3ff&count_private=true" width="95%" alt="GitHub Stats"/>
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/anandrajjee981-max">
-        <img src="https://streak-stats.demolab.com/?user=anandrajjee981-max&theme=dark&background=0a0a0f&stroke=00f3ff&ring=9d4edd&fire=00f3ff&currStreakNum=00f3ff&sideNums=e2e8f0&sideLabels=9d4edd&dates=718096&border=9d4edd" width="95%" alt="GitHub Streak"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="padding-top: 15px;">
-      <a href="https://github.com/anandrajjee981-max">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrajjee981-max&layout=compact&bg_color=0a0a0f&title_color=00f3ff&text_color=e2e8f0&icon_color=10b981&border_color=9d4edd" width="70%" alt="Top Languages"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/anandrajjee981-max">
+  <img src="https://github-readme-stats.vercel.app/api?username=anandrajjee981-max&show_icons=true&theme=cyberpunk&count_private=true" alt="GitHub Stats" />
+</a>
+&nbsp;
+<a href="https://github.com/anandrajjee981-max">
+  <img src="https://streak-stats.demolab.com/?user=anandrajjee981-max&theme=dark" alt="GitHub Streak" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/anandrajjee981-max">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrajjee981-max&layout=compact&theme=cyberpunk" alt="Top Languages" />
+</a>
+
+</div>
 
 <br>
 <img src="./assets/neon_divider.svg" width="100%" />

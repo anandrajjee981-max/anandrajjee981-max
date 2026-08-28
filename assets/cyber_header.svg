@@ -47,43 +47,36 @@
     <animateTransform attributeName="transform" type="translate" from="0,0" to="0,200" dur="4s" repeatCount="indefinite" />
   </line>
 
-  <!-- Corner Brackets (Cyber HUD Frames) -->
-  <!-- Top-Left -->
+  <!-- Corner Brackets -->
   <path d="M 15 35 L 15 15 L 35 15" fill="none" stroke="#00f3ff" stroke-width="3" filter="url(#glow-cyan)"/>
-  <!-- Top-Right -->
   <path d="M 865 15 L 885 15 L 885 35" fill="none" stroke="#00f3ff" stroke-width="3" filter="url(#glow-cyan)"/>
-  <!-- Bottom-Left -->
   <path d="M 15 165 L 15 185 L 35 185" fill="none" stroke="#9d4edd" stroke-width="3" filter="url(#glow-violet)"/>
-  <!-- Bottom-Right -->
   <path d="M 865 185 L 885 185 L 885 165" fill="none" stroke="#9d4edd" stroke-width="3" filter="url(#glow-violet)"/>
 
   <!-- Top System Header Bar -->
-  <text x="35" y="38" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#00f3ff" letter-spacing="2">
-    [ SYSTEM: ANAND_RAJ.SYS ]  <tspan fill="#10b981">● ONLINE</tspan>  |  SECURITY: LEVEL_ALPHA  |  LOC: 23.3441° N, 85.3096° E
+  <text x="35" y="38" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#00f3ff" letter-spacing="1.5">
+    [ SYSTEM: ANAND_RAJ.SYS ]  <tspan fill="#10b981">● ONLINE</tspan>  |  SECURITY: LEVEL_ALPHA
   </text>
   <line x1="35" y1="46" x2="865" y2="46" stroke="#00f3ff" stroke-width="0.8" opacity="0.3" />
 
   <!-- Main Hero Title -->
-  <text x="50%" y="105" text-anchor="middle" font-family="'Segoe UI', Roboto, sans-serif" font-size="42" font-weight="900" fill="url(#text-grad)" letter-spacing="6" filter="url(#glow-cyan)">
+  <text x="50%" y="105" text-anchor="middle" font-family="'Segoe UI', Roboto, sans-serif" font-size="44" font-weight="900" fill="url(#text-grad)" letter-spacing="6" filter="url(#glow-cyan)">
     ANAND RAJ
   </text>
 
   <!-- Subtitle HUD Tag -->
-  <text x="50%" y="138" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#e2e8f0" letter-spacing="3">
-    FULL-STACK ARCHITECT  <tspan fill="#00f3ff">//</tspan>  AGENTIC AI ENGINEING  <tspan fill="#9d4edd">//</tspan>  CYBER UI
+  <text x="50%" y="138" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#e2e8f0" letter-spacing="2">
+    FULL-STACK ARCHITECT  <tspan fill="#00f3ff">//</tspan>  AGENTIC AI ENGINEERING  <tspan fill="#9d4edd">//</tspan>  CYBER UI
   </text>
 
   <!-- Status Badges Bar -->
   <g transform="translate(230, 155)">
-    <!-- Badge 1 -->
     <rect x="0" y="0" width="130" height="22" rx="4" fill="#0a0a0f" stroke="#00f3ff" stroke-width="1"/>
     <text x="65" y="15" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#00f3ff">⚡ AGENTIC AI</text>
 
-    <!-- Badge 2 -->
     <rect x="145" y="0" width="150" height="22" rx="4" fill="#0a0a0f" stroke="#9d4edd" stroke-width="1"/>
     <text x="220" y="15" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#9d4edd">🛠️ FULL-STACK WEB</text>
 
-    <!-- Badge 3 -->
     <rect x="310" y="0" width="130" height="22" rx="4" fill="#0a0a0f" stroke="#10b981" stroke-width="1"/>
     <text x="375" y="15" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#10b981">🟢 OPEN TO WORK</text>
   </g>

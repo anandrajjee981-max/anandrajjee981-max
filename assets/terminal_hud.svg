@@ -21,7 +21,7 @@
   <text x="75" y="20" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#a0aec0">
     bash - root@anand-raj-matrix:~# systemctl status dev-core
   </text>
-  <text x="830" y="20" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#00f3ff">
+  <text x="870" y="20" text-anchor="end" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#00f3ff">
     [TTY-1]
   </text>
 
@@ -29,22 +29,22 @@
   <g font-family="'Fira Code', 'Courier New', monospace" font-size="12" font-weight="500">
     <!-- Log Line 1 -->
     <text x="25" y="60" fill="#718096">[0.0010] <tspan fill="#00f3ff">sys.init()</tspan> : Loading core modules...</text>
-    <text x="420" y="60" fill="#10b981" font-weight="bold">[ SUCCESS ]</text>
+    <text x="870" y="60" text-anchor="end" fill="#10b981" font-weight="bold">[ SUCCESS ]</text>
 
     <!-- Log Line 2 -->
-    <text x="25" y="85" fill="#718096">[0.0142] <tspan fill="#9d4edd">ai.pipelines</tspan> : Mounting Gemini, Mistral, LangGraph & LangChain...</text>
-    <text x="580" y="85" fill="#10b981" font-weight="bold">[ ACTIVE ]</text>
+    <text x="25" y="85" fill="#718096">[0.0142] <tspan fill="#9d4edd">ai.pipelines</tspan> : Mounting Gemini, Mistral, LangGraph &amp; LangChain...</text>
+    <text x="870" y="85" text-anchor="end" fill="#10b981" font-weight="bold">[ ACTIVE ]</text>
 
     <!-- Log Line 3 -->
     <text x="25" y="110" fill="#718096">[0.0325] <tspan fill="#00f3ff">fullstack.stack</tspan> : NestJS, React, PostgreSQL, Docker, Socket.io...</text>
-    <text x="610" y="110" fill="#00f3ff" font-weight="bold">[ READY ]</text>
+    <text x="870" y="110" text-anchor="end" fill="#00f3ff" font-weight="bold">[ READY ]</text>
 
     <!-- Log Line 4 -->
-    <text x="25" y="135" fill="#718096">[0.0589] <tspan fill="#10b981">current.focus</tspan> : Building Autonomous AI Agents & Cyberpunk WebGL UIs</text>
+    <text x="25" y="135" fill="#718096">[0.0589] <tspan fill="#10b981">current.focus</tspan> : Building Autonomous AI Agents &amp; Cyberpunk WebGL UIs</text>
 
     <!-- Log Line 5 -->
     <text x="25" y="160" fill="#718096">[0.0891] <tspan fill="#9d4edd">recruiter.status</tspan> : Available for Full-Stack / AI Engineer Roles</text>
-    <text x="580" y="160" fill="#10b981" font-weight="bold">[ OPEN_FOR_HIRE ]</text>
+    <text x="870" y="160" text-anchor="end" fill="#10b981" font-weight="bold">[ OPEN_FOR_HIRE ]</text>
 
     <!-- Live Command Input Line -->
     <text x="25" y="195" fill="#00f3ff" font-weight="bold">&gt; root@matrix:<tspan fill="#fff">~#</tspan> <tspan fill="#10b981">run --mode=hyper-performance --deploy=production</tspan></text>
