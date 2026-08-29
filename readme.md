@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/EMAIL_COMM-9D4EDD?style=for-the-badge&logo=gmail&logoColor=FFF&labelColor=0A0A0F"/>
 </a>
 &nbsp;
-<a href="https://portfolio2-three-sable.vercel.app">
+<a href="https://portfolio-anand-virid.vercel.app">
   <img src="https://img.shields.io/badge/PORTFOLIO_HUD-10B981?style=for-the-badge&logo=vercel&logoColor=FFF&labelColor=0A0A0F"/>
 </a>
 &nbsp;
