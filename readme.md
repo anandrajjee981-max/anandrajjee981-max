@@ -73,7 +73,7 @@
 <div align="center">
 
 <a href="https://github.com/anandrajjee981-max">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandrajjee981-max&show_icons=true&theme=cyberpunk&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=anandrajjee981-max&show_icons=true&theme=cyberpunk&count_private=true" alt="GitHub Stats" />
 </a>
 &nbsp;
 <a href="https://github.com/anandrajjee981-max">
@@ -83,7 +83,7 @@
 <br><br>
 
 <a href="https://github.com/anandrajjee981-max">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrajjee981-max&layout=compact&theme=cyberpunk" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anandrajjee981-max&layout=compact&theme=cyberpunk" alt="Top Languages" />
 </a>
 
 </div>
